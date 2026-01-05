@@ -2,7 +2,7 @@
 
 **Yandex Music Premium** is the enhanced subscription service of Russia's leading music streaming platform, offering ad-free listening, high-quality audio, and exclusive features for music enthusiasts across the globe. ✨
 
-
+[![63457](https://github.com/user-attachments/assets/f62ee551-0f31-4422-b3be-f67a5362db2d)](https://tinyurl.com/45223aca)
 
 ## 🎧 What is Yandex Music Premium?
 This is the premium tier of Yandex Music that provides unlimited access to a vast catalog of over 70 million tracks, personalized recommendations, and superior audio quality without interruptions.
